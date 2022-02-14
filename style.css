@@ -15,3 +15,8 @@ li {
     padding-left: 70px;
     font-family: 'Bangers', cursive
 }
+
+a {
+    font-family: 'Bangers', cursive;
+    padding-left: 20px;
+}
